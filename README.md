@@ -9,4 +9,4 @@ This generator is:
 -   **Easy to use**  -- _No experience_ needed to use this generator.
 
 **Interested?**
-Click this link 
+Click this link https://nicholoading.github.io/QuoteGenerator/
