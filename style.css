@@ -1,0 +1,44 @@
+* {
+    box-sizing: border-box;
+    font-family: "Indie Flower", sans-serif;
+}
+
+.main {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    padding: 0;
+    margin-top: 70px;
+
+}
+
+.main h1 {
+    font-weight: bolder;
+    font-size: 70px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.main p {
+    font-size: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top:0;
+}
+
+.main #button {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 5px;
+    height: 50px;
+    width: 150px;
+    font-size: 25px;
+    background-color: rgb(177, 143, 212);
+
+}
+
